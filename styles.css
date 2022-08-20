@@ -237,7 +237,7 @@ header{
 }
 input[type=text], input[type=password] {
     all:unset;
-  border: solid 0.2rem #000000; 
-  padding:0.2rem;
-  margin:1rem;
+    border: solid 0.2rem #000000; 
+    padding:0.2rem;
+    margin:0.1rem;
 }
